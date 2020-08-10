@@ -11,7 +11,7 @@ I also enjoy working on freelance projects in the form of portfolios, digital we
 
 ---
 
-### Hit me up 💫
+### Hit Me Up 💫
 
 If you’re interested in hearing more about any of the above check out my [website](https://www.jerinraisa.com), [twitter](https://twitter.com/jxrinr), or shoot me an email. ✌🏼
 
