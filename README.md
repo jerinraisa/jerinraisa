@@ -6,7 +6,7 @@ I also enjoy working on freelance projects in the form of portfolios, digital we
 
 **Currently I am:**
 - Studying Computer Engineering at the University of Waterloo
-- Leading Waterloo’s Hyperloop Web Team
+- Mentoring UWaterloo’s Hyperloop Web Team
 - Learning how to longboard 🛹
 
 ### Hit Me Up 💫
