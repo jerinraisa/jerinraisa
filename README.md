@@ -5,8 +5,8 @@ I’m Jerin (she/her), an enthusiastic developer and lover of challenges. I’ve
 I also enjoy working on freelance projects in the form of portfolios, digital web applications, or fun, interactive experiences. This past summer, I've been working on rebranding and developing UWaterloo's Hyperloop website, and developing and designing for non-profit community organizations.
 
 **Currently I am:**
+- Interning at Jam3 as a Developer 👩🏻‍💻
 - Studying Computer Engineering at the University of Waterloo
-- Mentoring UWaterloo’s Hyperloop Web Team
 - Learning how to longboard 🛹
 
 ### Hit Me Up 💫
