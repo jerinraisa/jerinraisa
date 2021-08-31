@@ -1,17 +1,19 @@
 ### Hi! Nice to meet you 👋,
 
-I’m Jerin (she/her), an enthusiastic developer and hobby enthusiast. I’ve been learning different ways to creatively express myself as a developer and taking it one day at a time.
+I’m Jerin (she/her), a perpetual developer and hobby enthusiast. I’ve been learning different ways to creatively express myself as a developer and taking it one day at a time.
 
 I also enjoy working on freelance projects in the form of portfolios, digital web applications, or fun, interactive experiences. This past summer, I've been working on rebranding and developing UWaterloo's Hyperloop website, and developing and designing for non-profit community organizations.
 
 **Currently I am:**
-- Looking for Winter 2022 Opportunities 👋🏼 
+- Looking for Winter 2022 Opportunities 👋🏼
+- Freelancing at Jam3 as a Developer
 - Studying Computer Engineering at the University of Waterloo
-- Learning how to play the piano 🎹
+- Growing my plant collection 🌱
 
 **Previously I was:**
 - Interning @Jam3 as a Developer 👩🏻‍💻
 - Interning @Crowdlinker as a QA Analyst/Developer
+- Mentoring UWaterloo's Hyperloop Development Team
 
 ### Hit Me Up 💫
 
