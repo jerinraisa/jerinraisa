@@ -6,14 +6,14 @@ I also enjoy working on freelance projects in the form of portfolios, digital we
 
 **Currently I am:**
 - Looking for Winter 2022 Opportunities 👋🏼
-- Freelancing at Jam3 as a Developer
+- Freelancing @Jam3 as a Developer
 - Studying Computer Engineering at the University of Waterloo
 - Growing my plant collection 🌱
 
 **Previously I was:**
 - Interning @Jam3 as a Developer 👩🏻‍💻
 - Interning @Crowdlinker as a QA Analyst/Developer
-- Mentoring UWaterloo's Hyperloop Development Team
+- Mentoring UWaterloo's Hyperloop Development Team @waterloop
 
 ### Hit Me Up 💫
 
