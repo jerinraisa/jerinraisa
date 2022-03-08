@@ -5,7 +5,7 @@ I’m Jerin (she/her), a perpetual developer and hobby enthusiast. I’ve been l
 During my downtime, I enjoy working on freelance projects in the form of portfolios, digital web applications, or fun, interactive experiences. When I’m away from the screen, I love reading fictional novels, growing my plant collection, and sketching out random ideas.
 
 **Currently I am:**
-- Interning @1Password as Junior Developer 👩🏻‍💻
+- Interning @1Password as a Junior Developer 👩🏻‍💻
 - Studying Computer Engineering at the University of Waterloo
 - Growing my plant collection 🌱
 
