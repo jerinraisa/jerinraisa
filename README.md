@@ -5,18 +5,19 @@ I’m Jerin (she/her), a perpetual developer and hobby enthusiast. I’ve been l
 During my downtime, I enjoy working on freelance projects in the form of portfolios, digital web applications, or fun, interactive experiences. When I’m away from the screen, I love reading novels, growing my plant collection, and sketching out random ideas.
 
 **Currently I am:**
-- Interning @Grailed as an Engineering Intern this Fall 🍂
+- Graduating this April !! 🌟
 - Studying Computer Engineering at the University of Waterloo
-- Collecting candles!
+- Catching up on my reading!
 
 **Previously I was:**
+- Interning @Grailed as an Engineering Intern 👩🏻‍💻👕
 - Interning @1Password as a Developer 👩🏻‍💻
 - Freelancing @Jam3 as a Developer 👩🏻‍💻
 - Mentoring UWaterloo's Hyperloop Development Team @waterloop
 
 ### Hit Me Up 💫
 
-If you’re interested in hearing more about any of the above check out my [website](https://www.jerinraisa.com), [twitter](https://twitter.com/jxrinr), or shoot me an email. ✌🏼
+If you’re interested in hearing more about any of the above check out my [website](https://www.jerinraisa.com) or shoot me an email. ✌🏼
 
 
 
