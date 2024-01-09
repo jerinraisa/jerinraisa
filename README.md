@@ -5,12 +5,12 @@ I’m Jerin (she/her), a perpetual developer and hobby enthusiast. I’ve been l
 During my downtime, I enjoy working on freelance projects in the form of portfolios, digital web applications, or fun, interactive experiences. When I’m away from the screen, I love reading novels, growing my plant collection, and sketching out random ideas.
 
 **Currently I am:**
-- Interning @teslamotors 🏎️
-- Graduating this August !! 🌟
-- Studying Computer Engineering at the University of Waterloo
+- Working @ Linktree as a SWE (!!)
 - Catching up on my reading!
 
 **Previously I was:**
+- Studying Computer Engineering at the University of Waterloo
+- Interning @teslamotors as a Frontend Engineering Intern 🏎️
 - Interning @Grailed as an Engineering Intern 👩🏻‍💻👕
 - Interning @1Password as a Developer 👩🏻‍💻
 - Freelancing @Jam3 as a Developer 👩🏻‍💻
