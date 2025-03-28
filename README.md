@@ -11,10 +11,7 @@ During my downtime, I enjoy working on freelance projects in the form of portfol
 **Previously I was:**
 - Studying Computer Engineering at the University of Waterloo, I graduated in Oct 2023!
 - Interning @teslamotors as a Frontend Engineering Intern 🏎️
-- Interning @Grailed as an Engineering Intern 👩🏻‍💻👕
-- Interning @1Password as a Developer 👩🏻‍💻
-- Freelancing @Jam3 as a Developer 👩🏻‍💻
-- Mentoring UWaterloo's Hyperloop Development Team @waterloop
+- Many more!
 
 ### Hit Me Up 💫
 
