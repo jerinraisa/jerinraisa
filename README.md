@@ -2,8 +2,6 @@
 
 I’m Jerin (she/her), a perpetual developer and hobby enthusiast. I’ve been learning different ways to creatively express myself as a developer and taking it one day at a time.
 
-During my downtime, I enjoy working on freelance projects in the form of portfolios, digital web applications, or fun, interactive experiences. When I’m away from the screen, I love reading novels, growing my plant collection, and sketching out random ideas.
-
 **Currently I am:**
 - Working @ Linktree as a SWE (!!)
 - Catching up on my reading!
