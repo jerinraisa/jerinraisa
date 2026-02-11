@@ -3,7 +3,7 @@
 I’m Jerin (she/her), a perpetual developer and hobby enthusiast. I’ve been learning different ways to creatively express myself as a developer and taking it one day at a time.
 
 **Currently I am:**
-- Working @ Linktree as a SWE (!!)
+- Working @ Linktree as a SWE (!!!)
 - Catching up on my reading!
 
 **Previously I was:**
